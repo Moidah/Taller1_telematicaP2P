@@ -33,3 +33,13 @@ Cada nodo mantiene una tabla que reduce significativamente el número de pasos n
 ###Node y Finger: Clases que representan los nodos en la red Chord y las entradas en la tabla de dedos de un nodo, respectivamente.
 Operaciones de Red Chord:
 ###Inserción y búsqueda de claves: Implementadas mediante métodos RPC que permiten insertar y buscar claves dentro de la red Chord, utilizando el enrutamiento definido por la tabla de dedos de cada nodo.
+
+## Video: https://www.youtube.com/watch?v=eTC6m8vNSzo
+
+## Referencias:
+https://www.basware.com/en/solutions/procure-to-pay/procure-to-pay-process/
+https://www.youtube.com/watch?v=iP28dHZIgBc
+https://github.com/fivosts/Chord-DHT
+https://github.com/MNoumanAbbasi/Chord-DHT-for-File-Sharing
+https://github.com/melzareix/chord-dht
+https://github.com/ChuanXia/Chord
